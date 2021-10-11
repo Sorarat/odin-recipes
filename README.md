@@ -1,0 +1,1 @@
+This project is done to showcase the skills learned in HTML so far. The prompt is to create a recipe page. 
